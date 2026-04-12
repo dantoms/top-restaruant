@@ -1,0 +1,25 @@
+{
+  "name": "top-restaruant",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dantoms/top-restaruant.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dantoms/top-restaruant/issues"
+  },
+  "homepage": "https://github.com/dantoms/top-restaruant#readme",
+  "description": "",
+  "devDependencies": {
+    "webpack": "^5.106.1",
+    "webpack-cli": "^7.0.2",
+    "webpack-dev-server": "^5.2.3"
+  }
+}
