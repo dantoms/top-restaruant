@@ -5,19 +5,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dantoms/top-restaruant.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/dantoms/top-restaruant/issues"
-  },
-  "homepage": "https://github.com/dantoms/top-restaruant#readme",
   "description": "",
   "devDependencies": {
+    "css-loader": "^7.1.4",
+    "html-loader": "^5.1.0",
+    "html-webpack-plugin": "^5.6.6",
+    "style-loader": "^4.0.0",
     "webpack": "^5.106.1",
     "webpack-cli": "^7.0.2",
     "webpack-dev-server": "^5.2.3"
